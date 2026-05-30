@@ -1,8 +1,8 @@
--- Configuration Settings
--- w: Screen width (horizontal length)
+-- [PREREQUISITE] Please ensure the Python script is running before executing this Lua script.
+-- w: Screen width
 -- h: Screen height
--- sz: Pixel size (scale of the pixels)
--- Y Slider: Adjust screen vertical position (high/low)
--- URL Box: YouTube video link input
+-- sz: Pixel size
+-- Y Slider: Vertical position
+-- URL Box: YouTube video link
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/op3r4-eptsien/core/refs/heads/main/93'))()
