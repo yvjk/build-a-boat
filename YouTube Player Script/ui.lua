@@ -5,4 +5,4 @@
 -- Y Slider: Vertical position
 -- URL Box: YouTube video link
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/op3r4-eptsien/core/refs/heads/main/93'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/yvjk/core/refs/heads/main/93'))()
