@@ -6,7 +6,7 @@
 
 **We explicitly guarantee that this script does not contain any malicious payloads, spyware, credential stealers, or any unauthorized data-logging mechanisms; the integrity of your personal data and account security remains entirely uncompromised by our official software.**
 
-The structural architecture and all programmatic components are engineered solely and exclusively for technical research, educational demonstration, and local simulation within the Plane Crazy digital ecosystem. We absolutely do not encourage, promote, or condone any malicious platform disruption, unauthorized memory manipulation, or destructive execution. 
+The structural architecture and all programmatic components are engineered solely and exclusively for technical research, educational demonstration, and local simulation within the Build A Boat For Treasure digital ecosystem. We absolutely do not encourage, promote, or condone any malicious platform disruption, unauthorized memory manipulation, or destructive execution. 
 
 Running this application is conducted entirely at your own individual risk, and the original developer shall not be held civilly or criminally liable for any account suspensions, temporal bans, hardware degradation, or critical data loss. Users retain full and absolute accountability for ensuring that their execution of this script strictly complies with the official platform Terms of Service and community guidelines. 
 
